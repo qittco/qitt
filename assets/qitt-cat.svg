@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Sleeping QITT cat mascot</title>
+<desc id="desc">A round charcoal cat with sleepy eyes, a striped forehead and one bent ear, curled up on a warm cream oval.</desc>
+<ellipse cx="184" cy="266" rx="139" ry="26" fill="#e9573d"/>
+<path d="M75 145 64 51q-3-17 16-10l65 37Q186 65 231 81l69-40q18-9 17 10l-8 104" fill="#e8dfca" stroke="#171715" stroke-width="12" stroke-linejoin="round"/>
+<path d="m64 51 27 14 9 37-30 23Z" fill="#e9573d"/>
+<path d="m297 52-39 49 48 25Z" fill="#e9573d"/>
+<path d="M300 43q-20 21-34 8" fill="none" stroke="#171715" stroke-width="12" stroke-linecap="round"/>
+<path d="M40 191Q40 81 180 79q140 2 140 112 0 86-140 94Q40 277 40 191Z" fill="#e8dfca" stroke="#171715" stroke-width="12"/>
+<path d="M145 93q15 25 6 43m29-45v42m33-39q-14 22-7 41" stroke="#171715" stroke-width="12" stroke-linecap="round" fill="none"/>
+<path d="M94 191q26 27 56 0m62 0q30 27 56 0" stroke="#171715" stroke-width="10" stroke-linecap="round" fill="none"/>
+<path d="m172 206 8 7 8-7" fill="#e9573d" stroke="#171715" stroke-width="7" stroke-linejoin="round"/>
+<path d="M180 213v9m0 0q-14 15-25 0m25 0q14 15 25 0" fill="none" stroke="#171715" stroke-width="6" stroke-linecap="round"/>
+<path d="M100 221 59 216m42 16-44 5m202-16 42-5m-42 16 45 5" fill="none" stroke="#171715" stroke-width="5" stroke-linecap="round"/>
+<path d="M107 253q23 16 51 8m46 0q30 8 51-8" fill="none" stroke="#171715" stroke-width="6" stroke-linecap="round"/>
+</svg>
