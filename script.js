@@ -12,6 +12,9 @@
     'Mrrp. Five more minutes.',
     'The cat has been notified.',
     'No drop yet. Excellent detective work.',
+    'MEOW??',
+    'PrrRrrrRrr..',
+    'Here qitt-y qitt-y.',
     'Shhh… creative genius is napping.',
     'Follow the cat. Not the rumors.'
   ];
